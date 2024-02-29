@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201167297698",
+    "project_id": "instagram-clone-course-skilla",
+    "storage_bucket": "instagram-clone-course-skilla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201167297698:android:4e49d1edd984c1a46dcbfb",
+        "android_client_info": {
+          "package_name": "com.skilla.instagram_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmsWaLoI4qn3M_HB9NXbFpQLyKAhlP3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
